@@ -2,7 +2,7 @@
 
 The markets the largest US companies hold, and the boards behind them, as a map to explore: **https://irie-people.github.io/markets/**
 
-Two maps, side by side and tied together. The markets tree runs from verticals to markets to the companies in each, with the share or figure each holds, every number dated and sourced. The boards map holds the boards of the S&P 500 and the 100 largest US companies by revenue: each company, its directors, and the people who sit on more than one board. Pick a company in the tree and its board lights up on the map; pick a director and every board they sit on lights up, with their public roles.
+Two maps, side by side and tied together. The markets tree runs from verticals to markets to the companies in each, with the share or figure each holds, every number dated and sourced. The boards map holds the boards of the S&P 500 and the 100 largest US companies by revenue, and of the other companies and bodies the markets name where the sources record a board (publishers, nonprofits, a state board of education): each company, its directors, and the people who sit on more than one board. Pick a company in the tree and its board lights up on the map; pick a director and every board they sit on lights up, with their public roles.
 
 The point of the tie: the same few hundred people sit on the boards of the companies that hold the shares, so the map shows which boardrooms touch which markets, and where one person sits on two boards in the same market.
 
@@ -12,7 +12,7 @@ The point of the tie: the same few hundred people sit on the boards of the compa
 - **Companies:** Wikipedia's lists of the S&P 500 companies and of the largest US companies by revenue.
 - **Markets:** each market names its sources (industry trackers, regulators' statistics, company filings, trade press), with the date of each figure and how sure it is.
 
-The data was read on 2026-11-09.
+The data was read on 2026-11-09, and the Education markets on 2026-11-25: who sells the textbooks to US schools, who writes them, who picks them and who sets the standards they are written to.
 
 ## The people in it
 
